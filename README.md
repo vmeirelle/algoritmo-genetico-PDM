@@ -2,6 +2,7 @@
 
 This project implements a genetic algorithm to solve the classic reinforcement learning problem in the `MountainCar-v0` environment from OpenAI Gym. The goal is to train an agent to reach the flag at the top of the hill by applying the right force to the car.
 
+The repository also includes a scientific article discussing the algorithms used. The article provides insights into the genetic algorithm, data management, and fitness evaluation.
 ## Approach
 
 1. **Population Initialization**:
